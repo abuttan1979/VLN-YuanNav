@@ -44,12 +44,7 @@ source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate  # Windows
 ```
 
-### 3. 安装依赖
-```bash
-pip install -r requirements.txt
-```
-
-### 4. 下载模型
+### 3. 下载模型
 ```bash
 # 下载基础模型
 mkdir -p model_cache/qwen
