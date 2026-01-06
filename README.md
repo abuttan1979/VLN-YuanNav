@@ -56,4 +56,8 @@ cd ../..
 python -c "from transformers import Qwen2VLForConditionalGeneration; model = Qwen2VLForConditionalGeneration.from_pretrained('path/to/lora/model')"
 ```
 
+- GitHub: https://github.com/fuu9775-ui/VLN-YuanNav
+- Email: cjz18936691230@163.com
+
+
 For full details, please refer to the README file in the project directory.
