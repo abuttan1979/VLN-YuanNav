@@ -1,6 +1,6 @@
-# VLN Agent - Vision-Language Navigation Agent
+# VLN - YuanNav
 
-一个基于多模态大语言模型（Qwen2-VL）的视觉-语言导航agent（VLN），具有增强的记忆系统和自主决策能力。
+一个基于多模态大语言模型（Qwen2-VL）的视觉-语言导航（VLN），具有增强的记忆系统和自主决策能力。
 
 <img width="821" height="420" alt="Image" src="https://github.com/user-attachments/assets/9dbc936b-ee3e-4e2e-b7be-b46d777baa70" />
 【task：find lamp】
