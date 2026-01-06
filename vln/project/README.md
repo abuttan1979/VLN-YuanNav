@@ -162,27 +162,6 @@ saves/qwen2vl-7b-vln/lora/sft/
 ✅ [System] LoRA 适配器已加载: saves/qwen2vl-7b-vln/lora/sft
 ```
 
-#### 5.6 常见问题
-
-**Q: 如何更换LoRA模型？**
-A: 修改`test.py`中的`MODEL_PATH`变量，指向新的LoRA模型目录。
-
-**Q: 如何使用基础模型（不加载LoRA）？**
-A: 注释掉`model.load_adapter(model_path)`这一行，直接使用基础模型。
-
-**Q: LoRA模型加载失败怎么办？**
-A: 检查以下几点：
-1. LoRA模型路径是否正确
-2. `adapter_config.json`和`adapter_model.safetensors`文件是否存在
-3. 基础模型和LoRA模型是否兼容（相同的基础模型）
-
-**Q: 如何合并LoRA到基础模型？**
-A: 使用以下代码合并：
-```python
-merged_model = model.merge_and_unload()
-merged_model.save_pretrained("merged_model")
-```
-
 ### 6. 准备场景数据
 ```bash
 # 下载Habitat场景
@@ -297,7 +276,7 @@ MODEL_PATH = "saves/qwen2vl-7b-vln/lora/sft"
 ### 起点配置
 ```python
 # 在test.py中修改起点
-start_pos = [4.5, -0.8, 0.7]  # [x, y, z]
+start_pos = # [x, y, z]
 ```
 
 ### 最大步数配置
@@ -343,20 +322,6 @@ bnb_config = BitsAndBytesConfig(
 )
 ```
 
-## 常见问题
-
-### Q: 如何更换场景？
-A: 修改`test.py`中的`SCENE_FILE`变量。
-
-### Q: 如何调整最大步数？
-A: 修改`LoopController`的`max_steps`参数。
-
-### Q: 如何添加新的动作？
-A: 在`ExecutionModule`的`execute`方法中添加新动作。
-
-### Q: 如何调试？
-A: 设置环境变量`DEBUG=1`启用详细日志。
-
 ## 许可证
 
 MIT License
@@ -367,8 +332,8 @@ MIT License
 
 ## 联系方式
 
-- GitHub: https://github.com/yourusername/YuanNav
-- Email: your.email@example.com
+- GitHub: https://[github.com/yourusername/YuanNav](https://github.com/fuu9775-ui/VLN-YuanNav)
+- Email: cjz18936691230@163.com
 
 ## 致谢
 
