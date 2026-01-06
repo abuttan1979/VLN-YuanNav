@@ -1,6 +1,8 @@
 # VLN Agent - Vision-Language Navigation Agent
 
-一个基于多模态大语言模型（Qwen2-VL）的视觉-语言导航（VLN）智能体，具有增强的记忆系统和自主决策能力。
+一个基于多模态大语言模型（Qwen2-VL）的视觉-语言导航agent（VLN），具有增强的记忆系统和自主决策能力。
+
+![Uploading image.png…]()
 
 ## 功能特点
 
